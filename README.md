@@ -4,5 +4,5 @@ This is a collection of projects and exercises from the Tech Elevator curriculum
 
 ### Contents ###
 
-* Capstone Projects: Capstone projects are larger pair programming exercises in which we draw upon multiple skills and concepts to create a fully-functioning program.
-* Weekly Exercises: Weekly exercises include both individual and pair programming assignments meant to help us hone the skills and concepts covered in class.
+* **Capstone Projects:** Capstone projects are larger pair programming exercises in which we draw upon multiple skills and concepts to create a fully-functioning program.
+* **Weekly Exercises:** Weekly exercises include both individual and pair programming assignments meant to help us hone the skills and concepts covered in class.
