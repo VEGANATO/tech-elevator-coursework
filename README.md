@@ -1,29 +1,8 @@
 # Tech Elevator Coursework #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is a collection of projects and exercises from the Tech Elevator curriculum that I have completed. Tech Elevator is a top-ranking software development school in Columbus, OH focusing on full-stack programming within the Java framework. Currently this collection includes code in Java, PostgreSQL, HTML, and CSS, as well as unit tests written using JUnit.
 
-### What is this repository for? ###
+### Contents ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Capstone Projects: Capstone projects are larger pair programming exercises in which we draw upon multiple skills and concepts to create a fully-functioning program.
+* Weekly Exercises: Weekly exercises include both individual and pair programming assignments meant to help us hone the skills and concepts covered in class.
